@@ -1,6 +1,8 @@
 header {
-  text-color: skyblue;
+  color: skyblue;
   font-size: 50px;
   text-align: center;
   background-color: yellow;
+  font-family: Helvetica;
+  
 }
